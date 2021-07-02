@@ -1,9 +1,9 @@
-package com.service.processor.bean;
+package com.service.generator.bean;
 
 import java.util.List;
 
 public class DomainList {
-    List<com.service.processor.bean.Domain> domains;
+    List<Domain> domains;
 
     public List<Domain> getDomains() {
         return domains;

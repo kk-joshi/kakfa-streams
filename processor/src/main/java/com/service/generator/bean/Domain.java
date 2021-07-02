@@ -1,9 +1,9 @@
-package com.service.processor.bean;
+package com.service.generator.bean;
 
 import java.util.Date;
 import java.util.List;
 
-public class Domain{
+public class Domain {
     public String domain;
     public Date create_date;
     public Date update_date;
